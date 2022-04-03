@@ -359,7 +359,7 @@ echo -e "\033[32m\033[1m
   \033[33m________________________________________________
      \033[1m\033[36mTool Name       \033[32m: \033[33mTermux-Login
      \033[1m\033[36mAuthor_Name     \033[32m: \033[33mAmbarish Mandal 
-
+     \033[1m\033[36mContact         \033[32m: \033[33mambarish.ofc@gmail.com
      \033[1m\033[36mCountry         \033[32m: \033[33mIndia
      \033[1m\033[36mState           \033[32m: \033[33mWest Bengal
   \033[31m________________________________________________
