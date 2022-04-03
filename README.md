@@ -23,7 +23,7 @@ This script is for security or lock in termux
 
 ``apt install git ``
 
-``git clone`` https://github.com/Ofc-Ambarish/Termux-login
+``git clone`` https://github.com/Ofc-Ambarish/Termux-Login
 
 ``cd Termux-Login``
 
